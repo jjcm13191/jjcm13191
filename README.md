@@ -1,4 +1,4 @@
-## John Munn
+## Data Porfolio
 
 Welcome to my Data Science Projects Repository. This repository contains a collection of my data science projects, showcasing my skills and expertise in the field. Each project demonstrates different aspects of data analysis, data cleaning, and visualization. 
 
@@ -25,12 +25,12 @@ Welcome to my Data Science Projects Repository. This repository contains a colle
 2. [Female Artist Data Cleaning](https://github.com/jjcm13191/Data-Cleaning-Projects/tree/main/FemaleTouringArtist%20Data%20Cleaning%20Project)
    -  **Description:** In this project I clean a dataset of female artist and their tours 
    - **Technologies Used:** Python is used to clean the data.
-   - **Results:** Data frame has the correct data types, all duplicates and missing values removed, dataset ready for use.
+   - **Results:** The data frame has the correct data types, all duplicates and missing values removed, dataset ready for use.
 3. [King County Dashboard](https://github.com/jjcm13191/Data-Visualization-Projects/tree/main/King%20County%20Housing%20Project)
    -  **Description:** This project is a dashboard showing houses sales in King County, Washington.
    - **Technologies Used:** Tableau is used in this project.
-   - **Results:** This interactive dashboard tracks the daily averages, price distribution, a heat map of quality, and a geogrphaical heat map of prices.
+   - **Results:** This interactive dashboard tracks the daily averages, price distribution, a heat map of quality, and a geographaical heat map of prices.
 4. [Order Cancellation Visual](https://github.com/jjcm13191/Data-Visualization-Projects/tree/main/Order%20Cancellation%20Visualization%20Google%20Sheets)
-   -  **Description:** This visual project shows a comapany's cancelled orders.
+   -  **Description:** This visual project shows a company's cancelled orders.
    - **Technologies Used:** Google Sheets was used in this project.
-   - **Results:** This visual uses pie charts, bar graphs, and stacked bar graphs to show average cancel times, cancel times by driver, and precent of cancels.
+   - **Results:** This visual uses pie charts, bar graphs, and stacked bar graphs to show average cancel times, cancel times by driver, and percent of cancellations.
