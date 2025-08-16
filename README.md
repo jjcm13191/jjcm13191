@@ -23,14 +23,18 @@ Welcome to my Data Science Projects Repository. This repository contains a colle
    - **Technologies Used:** Python is used to analyze and clean the data.
    - **Results:** Age groups 36-50 and 51-70 purchase the most. Wine and meat are the primary purchases across all ages.
 2. [Female Artist Data Cleaning](https://github.com/jjcm13191/Data-Cleaning-Projects/tree/main/FemaleTouringArtist%20Data%20Cleaning%20Project)
-   -  **Description:** In this project I clean a dataset of female artist and their tours 
+   - **Description:** In this project I clean a dataset of female artist and their tours 
    - **Technologies Used:** Python is used to clean the data.
    - **Results:** The data frame has the correct data types, all duplicates and missing values removed, dataset ready for use.
 3. [King County Dashboard](https://github.com/jjcm13191/Data-Visualization-Projects/tree/main/King%20County%20Housing%20Project)
-   -  **Description:** This project is a dashboard showing houses sales in King County, Washington.
+   - **Description:** This project is a dashboard showing houses sales in King County, Washington.
    - **Technologies Used:** Tableau is used in this project.
    - **Results:** This interactive dashboard tracks the daily averages, price distribution, a heat map of quality, and a geographaical heat map of prices.
 4. [Order Cancellation Visual](https://github.com/jjcm13191/Data-Visualization-Projects/tree/main/Order%20Cancellation%20Visualization%20Google%20Sheets)
    -  **Description:** This visual project shows a company's cancelled orders.
    - **Technologies Used:** Google Sheets was used in this project.
    - **Results:** This visual uses pie charts, bar graphs, and stacked bar graphs to show average cancel times, cancel times by driver, and percent of cancellations.
+5. [Astrology Machine Learning Project](https://github.com/jjcm13191/Machine-Learning-Projects/tree/b2830b1ada32425f0d8d0cf1522e3162eb256e40/Astrology_Project)
+   - **Description:** This machine learning project I use algorithms to predict astrological signs in a dating app.
+   - **Technologies Used:** Python and Colab.google were used in this project.
+   - **Results:** Astrological signs have little to no influence on perceived body type, diet, orientation, pet preferences, religious affliation, sex, or profession.
